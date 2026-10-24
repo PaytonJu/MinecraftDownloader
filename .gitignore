@@ -1,0 +1,14 @@
+.build/
+node_modules/
+network-test/
+*.part
+*.log
+*-test-result.txt
+self-test-error.txt
+repair-progress.log
+cancel-repair.signal
+preview*.png
+/MinecraftDownloader.exe
+/MinecraftDownloadHelper.exe
+*.previous
+*.tmp
